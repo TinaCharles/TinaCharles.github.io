@@ -1,23 +1,23 @@
 # main links links
 main:
+  - title: "CV"
+    # url: /cv/
+    url: /files/Tina_Chrles_Mbakwe-Obi_Resume.pdf
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
-    
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Talks"
+  #   url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+    
+  # - title: "Guide"
+  #   url: /markdown/
+
+  # - title: "Teaching"
+  #   url: /teaching/    
