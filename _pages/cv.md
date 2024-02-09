@@ -82,7 +82,7 @@ redirect_from:
 
 - (07/2023) [Career Essentials in Generative AI, Microsoft at LinkedIn](http://www.linkedin.com/learning/certificates/a767668201585db155a81237c55e7e3a846f3f4c3f9a37aff3420010993c8a2d)
 
-- (10/2023) [Product Management Proffesional Certificate](http://www.linkedin.com/learning/certificates/741773109ad65167cb1a6e34581815116602fd00a59cd6e07b04d5aba608e705)
+- (10/2023) [Product Management Proffesional Certificate, Aha!](http://www.linkedin.com/learning/certificates/741773109ad65167cb1a6e34581815116602fd00a59cd6e07b04d5aba608e705)
 
 - (05/2020) GIS Training Programme using QGIS, Institute of Urban Development, India
 
