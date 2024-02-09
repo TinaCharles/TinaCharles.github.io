@@ -18,7 +18,7 @@ redirect_from:
 - ### M.Sc in Management and Information System, University of illinois at Springfield, United States, (08/2022 - 05/2024)
 
   - Carried off diverse responsibilities at UIS Student Union Desk, guaranteeing exceptional guest experiences.
-  
+
   - Led 'Digital Park Application Project ,'SMART ENERGY GUARD,' and housing affordability Data Analysis projects.
 
   - Recognized in December 2022 International Student Spotlight.
@@ -78,11 +78,11 @@ redirect_from:
 
 # Certifications
 
-- (10/2023) [Applied Analytics using SAS Entreprise Miner, SAS](http://www.credly.com/badges/744bb2b5-f1f4-4363-8963-3d052680c8be/linked_in?t=s28py3)
+<!-- - (10/2023) [Applied Analytics using SAS Entreprise Miner, SAS](http://www.credly.com/badges/744bb2b5-f1f4-4363-8963-3d052680c8be/linked_in?t=s28py3)
 
 - (07/2023) [Career Essentials in Generative AI, Microsoft at LinkedIn](http://www.linkedin.com/learning/certificates/a767668201585db155a81237c55e7e3a846f3f4c3f9a37aff3420010993c8a2d)
 
-- (10/2023) [Product Management Proffesional Certificate, Aha!](http://www.linkedin.com/learning/certificates/741773109ad65167cb1a6e34581815116602fd00a59cd6e07b04d5aba608e705)
+- (10/2023) [Product Management Proffesional Certificate, Aha!](http://www.linkedin.com/learning/certificates/741773109ad65167cb1a6e34581815116602fd00a59cd6e07b04d5aba608e705) -->
 
 - (05/2020) GIS Training Programme using QGIS, Institute of Urban Development, India
 
@@ -96,7 +96,7 @@ redirect_from:
 
 - (12/2023) ARIS Business Process Analysis Platform, Aris
 
-- (06/2023) [Project Management: Technical Projects, LinkedIn Learning](http://www.linkedin.com/learning/certificates/4c83ded856eacba3cc07147f173287048fecb9e1339d7f50f08e3447e6b5e884?trk=share_certificate)
+<!-- - (06/2023) [Project Management: Technical Projects, LinkedIn Learning](http://www.linkedin.com/learning/certificates/4c83ded856eacba3cc07147f173287048fecb9e1339d7f50f08e3447e6b5e884?trk=share_certificate) -->
 
 <!-- # Publications
 
