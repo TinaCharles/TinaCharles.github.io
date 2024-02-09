@@ -1,7 +1,9 @@
 # main links links
 main:
   - title: "CV"
-    # url: /cv/
+    url: /cv/
+
+  - title: "Resume"
     url: /files/Tina_Chrles_Mbakwe-Obi_Resume.pdf
 
   - title: "Publications"
