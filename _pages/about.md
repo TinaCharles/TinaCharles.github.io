@@ -1,12 +1,14 @@
 ---
 permalink:
 title: "👋 Hello, I am Tina"
-# excerpt: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 --- 
+
+About me
 
 Welcome to my corner of the web! I am a results-driven professional with a diverse background in customer service, accounting, business consulting, and management information systems. Holding recent graduate certificates in IT project management, business analysis, and cybersecurity, I bring a unique blend of skills and expertise to the table.
 
