@@ -52,7 +52,7 @@ redirect_from:
 
 - [CERTIFICATES FROM IPAS AND OPEN 2 STUDY](/files/Certificates%20from%20Ipsas%20and%20open%202study.pdf)
 
-- [IPAS AND ICAN TRAINING](files/IPAS%20AND%20ICAN%20TRAINING.pdf)
+- [IPAS AND ICAN TRAINING](files/IPSAS%20AND%20ICAN%20TRAINING.pdf)
 
 - [RECCOMENDATIONS](/files/Recommendation.pdf)
 
