@@ -47,7 +47,7 @@ redirect_from:
   - Ascertained robust data security for trust and revenue protection.
   - Resolved product malfunctions promptly for customer satisfaction.
 
-# Courses
+# Certifications
 
 - [NASRDA WORK PROMOTIONS](/files/NASRDA%20WORK%20PROMOTIONS%20.pdf)
 
@@ -88,7 +88,7 @@ redirect_from:
 - (08/2008) Best Transaction Officer Central Region, Intercontinental Bank Plc
 
 
-# Certifications
+# Courses
 
 - (05/2024)  Graduate Certificate in Cybersecurity,  University of Illinois Springfield
 
