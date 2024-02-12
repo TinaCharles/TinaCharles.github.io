@@ -48,7 +48,7 @@ redirect_from:
 
 # Certifications
 
-- [NASRDA WORK PROMOTIONS](https://github.com/TinaCharles/tinacharles.github.io/blob/master/files/NASRDA%20WORK%20PROMOTIONS%20.pdf)
+- [NASRDA WORK PROMOTIONS](/files/NASRDA%20WORK%20PROMOTIONS%20.pdf)
 
 - [CERTIFICATES FROM IPAS AND OPEN 2 STUDY](https://github.com/TinaCharles/tinacharles.github.io/blob/master/files/Certificates%20from%20Ipsas%20and%20open%202study.pdf)
 
