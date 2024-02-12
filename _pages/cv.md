@@ -47,7 +47,7 @@ redirect_from:
   - Ascertained robust data security for trust and revenue protection.
   - Resolved product malfunctions promptly for customer satisfaction.
 
-# Certifications
+# Courses
 
 - [NASRDA WORK PROMOTIONS](/files/NASRDA%20WORK%20PROMOTIONS%20.pdf)
 
