@@ -50,11 +50,11 @@ redirect_from:
 
 - [NASRDA WORK PROMOTIONS](/files/NASRDA%20WORK%20PROMOTIONS%20.pdf)
 
-- [CERTIFICATES FROM IPAS AND OPEN 2 STUDY](https://github.com/TinaCharles/tinacharles.github.io/blob/master/files/Certificates%20from%20Ipsas%20and%20open%202study.pdf)
+- [CERTIFICATES FROM IPAS AND OPEN 2 STUDY](/files/Certificates%20from%20Ipsas%20and%20open%202study.pdf)
 
-- [IPAS AND ICAN TRAINING](https://github.com/TinaCharles/tinacharles.github.io/blob/master/files/IPSAS%20AND%20ICAN%20TRAINING%20.pdf)
+- [IPAS AND ICAN TRAINING](files/IPAS%20AND%20ICAN%20TRAINING.pdf)
 
-- [RECCOMENDATIONS](https://github.com/TinaCharles/tinacharles.github.io/blob/master/files/Recommendation.pdf)
+- [RECCOMENDATIONS](/files/Recommendation.pdf)
 
 # Skills
 
