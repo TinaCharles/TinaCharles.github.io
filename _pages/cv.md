@@ -27,25 +27,48 @@ redirect_from:
 
 - ### (02/2023 - present): SOC Analyst, Illinois Department of Innovation and Technology
 
-  - Monitored network traffic, detected and mitigated security incidents.
-  - Cooperated to investigate breaches, name causes, and enforce corrective actions.
-  - Utilized threat intelligence to identify emerging threats, reducing cyber-attack risk by 15%
+  DoIT guides technology solution delivery and support for the agencies in the executive branch of state government.
+
+  - Security Incident Management: Proactively monitor, detect, and respond
+    to security incidents utilizing a suite of cutting-edge cybersecurity tools,
+    including KnowBe4, CrowdStrike, Splunk, and Cisco Umbrella.
+  - Meticulously documented 150 security incidents, detections, and
+    resolutions.
+  - Worked with cross-functional collaboration between 14 teams to ensure
+    effective communication and information sharing
+  - Reduced potential damage and downtime by 30% through swift
+    identification and addressing of security threats.
+  - Led efforts to remediate potential vulnerabilities, employing strategic
+    measures to enhance overall system security and resilience.
 
 - ### (01/2018 - 08/2022): Senior Accountant and Project Coordinator, Center for Space Transport and Propulsion (NASRDA)
 
-  - Streamlined financial processes, ensuring efficiency and compliance.
-  - Attained 95% expense tracking accuracy through strategic improvements.
-  - Managed budgets to meet financial targets and heighten monitoring.
+  - Financial Process Optimization: Spearheaded the streamlining of financial
+    transaction processes, enhancing operational efficiency and ensuring
+    strict adherence to IPSAS standards.
+  - Implemented strategic improvements that resulted in streamlined workflows and heightened compliance with international financial reporting guidelines.
+  - Achieved 95% accuracy in expense tracking mechanisms within the organization, ensuring strict adherence to budgetary guidelines.
+  - Implemented effective strategies that contributed to goal attainment, demonstrating leadership in tax compliance and value-added tax management.
+  - Budget Development and Monitoring: Developed and maintained comprehensive budgets, overseeing expense tracking mechanisms to meet financial targets and enhance overall financial monitoring.
+  - Implemented robust financial controls to ensure adherence to budgetary guidelines and fostered a culture of financial accountability within the organization.
 
 - ### (01/2013 - 12/2017): Internal Auditor, National Space Research and Development Agency (NASRDA)
-  - Conducted thorough audits with preliminary assessments.
-  - Reviewed payroll for deficiencies and fraud with 30% achievement
-  - Customized investigations for NASRDA liaison offices.
+
+  - Audit Efficiency and Planning: Conducted thorough and efficient audits by leveraging preliminary reviews and strategically outlining annual agency plans. Implemented a systematic approach to audits, ensuring accuracy and completeness in the assessment of financial operations.
+
+  - Payroll and Personnel Records Oversight: Addressed payroll and personnel records meticulously, identifying revenue and expenditure shortfalls, overage payments, and proactively detecting instances of fraud. Applied a keen eye for detail to ensure the integrity of financial data, contributing to enhanced financial transparency and accountability.
+
+  - Scope Determination for Investigations: Evaluated and determined the scope of investigations required for various NASRDA liaison offices across the country, tailoring strategies to address specific operational nuances. Contributed to effective risk management by identifying potential areas of concern and directing investigative efforts accordingly.
+
+  - Detailed Reporting: Prepared comprehensive and detailed reports on audit findings, communicating insights and recommendations to relevant stakeholders. Ensured clarity and transparency in reporting, facilitating informed decision-making and proactive resolution of identified issues.
 
 - ### (04/2008 - 12/2012): Customer Service Officer
-  - Increased customer retention by 15% with service excellence.
-  - Ascertained robust data security for trust and revenue protection.
-  - Resolved product malfunctions promptly for customer satisfaction.
+  Financial Institution
+
+  - Customer Retention Enhancement: Successfully improved customer retention by 15% through the implementation of efficient service and account management strategies. Focused on cultivating positive customer relationships, contributing to increased loyalty and sustained revenue streams.
+  - Data Security and Policy Adherence: Ensured robust data security measures, strictly adhering to information policies to prevent potential revenue losses. Maintained a vigilant stance on safeguarding sensitive information, fostering trust and confidence among clients and stakeholders.
+  - Resolution of Product Malfunctions: Identified root causes of product malfunctions and facilitated timely resolution by reversing transactions for affected customers. Demonstrated a commitment to customer satisfaction by addressing issues promptly, mitigating potential negative impacts oncustomer experience.
+  - Elevated customer satisfaction levels through the implementation of fast and knowledgeable service delivery. Prioritized efficience and expertise in customer interactions, contributing to an enhanced overall customer experience.
 
 # Certifications
 
@@ -56,6 +79,30 @@ redirect_from:
 - [IPAS AND ICAN TRAINING](/files/IPSAS%20AND%20ICAN%20TRAINING%20.pdf)
 
 - [RECCOMENDATIONS](/files/Recommendation.pdf)
+
+# Accomplishments
+
+- Collaborated with team of 20 people in developing and production of NASRDA@20 Anniversary Documentary and Awareness
+  of satellite products to common masses.
+
+- 2008 Best Transaction officer of North Central Region of then Intercontinental Bank plc (presently Access Bank).
+
+- Documented and resolved issues of lack of productivity among Geo Apps staff which led to creating what I call Happy time. Which the Agency has adopted for once-a-month activity.
+
+- Introduced "Saving for a purpose" in NASRDA.
+
+- Achieved Revenue loss through effectively vetting staff arreas claim by comparing with my payroll Auditing which led to N7million naira for center (CSTP).
+
+- Documented and resolved a fradulent cheque withdrawal which led to saving over N37million naira and a head office letter of
+  recommendation.
+
+- Two-time Vice-President of Lagos based student Association (LBSA Nekede Chapter). which includes, event organising, hosting student protective intercourse Awareness, Award night Events and lots more.
+
+# Affiliations
+
+- International Proffesinal Managers Association (IPMA) Uniter Kingdom
+- Internatinal Expert Consultant United kingdom
+- Supreme Ladies Auxillary of the Knight of St John Int'l.
 
 # Skills
 
@@ -79,6 +126,13 @@ redirect_from:
 
 - Resource Planning
 
+- Communication
+
+- Financial Reporting and Account Reconciliation
+
+- Planning, Critical thinking, Task priortization and public speaking
+
+- General ledger and recordkeeping
 
 # Awards
 
@@ -87,10 +141,9 @@ redirect_from:
 - (10/2012) Exceptional Staff Award, Access Bank Plc
 - (08/2008) Best Transaction Officer Central Region, Intercontinental Bank Plc
 
-
 # Courses
 
-- (05/2024)  Graduate Certificate in Cybersecurity,  University of Illinois Springfield
+- (05/2024) Graduate Certificate in Cybersecurity, University of Illinois Springfield
 
 - (05/2024) Graduate Certificate in IT Project Management, University of Illinois Springfield
 
@@ -110,25 +163,24 @@ redirect_from:
 
 - (05/2020) GIS Training Programme using QGIS, Institute of Urban Development, India
 
-
 <!-- # Publications
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
