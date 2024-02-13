@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CERTIFICATE COURSES"
-permalink: /certificate_coursest/
+permalink: /certificate_courses/
 author_profile: true
 redirect_from:
   - /certificate_courses

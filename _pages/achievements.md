@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: "achievements"
+title: "Achievements"
 permalink: /achievements/
 author_profile: true
 redirect_from:
   - /achievements
 ---
-
-# Achievements
 
 - Collaborated with team of 20 people in developing and production of NASRDA@20 Anniversary Documentary and Awareness
   of satellite products to common masses.

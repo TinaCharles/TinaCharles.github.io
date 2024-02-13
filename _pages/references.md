@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: "references"
+title: "References"
 permalink: /references/
 author_profile: true
 redirect_from:
   - /references
 ---
-
-# References
 
 - NASRDA
 

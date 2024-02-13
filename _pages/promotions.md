@@ -7,8 +7,4 @@ redirect_from:
   - /promotions
 ---
 
-# Promotions
-
 - [NASRDA WORK PROMOTIONS](/files/NASRDA%20WORK%20PROMOTIONS%20.pdf)
-
-- 

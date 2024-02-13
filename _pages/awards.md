@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: "awards"
+title: "Awards"
 permalink: /awards/
 author_profile: true
 redirect_from:
   - /awards
 ---
-
-# Awards
 
 - (12/2021) Outstanding Staff Initiative, National Space Research and Development Agency
 - (07/2018) Best Auditor's Award, Center for Space transport and Propulsion (NASRDA)

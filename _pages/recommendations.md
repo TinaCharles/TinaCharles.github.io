@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "reccommentations"
-permalink: /reccommendations/
+permalink: /recommendations/
 author_profile: true
 redirect_from:
   - /recommendations
