@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "trainings"
+title: "Trainings"
 permalink: /trainings/
 author_profile: true
 redirect_from:

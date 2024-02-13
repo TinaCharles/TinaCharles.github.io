@@ -1,12 +1,11 @@
 ---
 layout: archive
-title: "reccommentations"
+title: "Reccommentations"
 permalink: /recommendations/
 author_profile: true
 redirect_from:
   - /recommendations
 ---
 
-# Recommendations
 
-- [RECCOMENDATIONS](/files/Recommendation.pdf)
+- [INTERCONTINENTAL BANK RECCOMENDATIONS](/files/Recommendation.pdf)
