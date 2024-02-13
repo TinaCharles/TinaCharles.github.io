@@ -22,5 +22,5 @@ redirect_from:
 
 - (01/2023) [PROJECT MANAGEMENT](/files/PROJECT_MANAGEMENT_CERTIFICATE.pdf)
 
-- (06/2022) [Cyber Security](/files/Cybersecurity course.pdf)
+- (06/2022) [Cyber Security](/files/Cybersecurity_course.pdf)
 
