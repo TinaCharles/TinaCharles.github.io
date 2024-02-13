@@ -4,7 +4,7 @@ title: "CERTIFICATIONS"
 permalink: /certifications/
 author_profile: true
 redirect_from:
-  - /certifications
+  - /resume
 ---
 
 {% include base_path %}
