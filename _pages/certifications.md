@@ -4,10 +4,8 @@ title: "CERTIFICATIONS"
 permalink: /certifications/
 author_profile: true
 redirect_from:
-  - /resume
+  - /certifications
 ---
-
-{% include base_path %}
 
 - [MENDIX RAPID DEVELOPER](/files/MendixRapidDeveloper-42347.pdf)
 

@@ -20,7 +20,7 @@ redirect_from:
 
 - (06/2023) [Project Management: Technical Projects, LinkedIn Learning](http://www.linkedin.com/learning/certificates/4c83ded856eacba3cc07147f173287048fecb9e1339d7f50f08e3447e6b5e884?trk=share_certificate)
 
-- (01/2023) [PROJECT MANAGEMENT](files\PROJECT_MANAGEMENT_CERTIFICATE.pdf)
+- (01/2023) [PROJECT MANAGEMENT](/files/PROJECT_MANAGEMENT_CERTIFICATE.pdf)
 
-- (06/2022) [Cyber Security](files\Cybersecurity course.pdf)
+- (06/2022) [Cyber Security](/files/Cybersecurity course.pdf)
 
