@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Reccommentations"
+title: "Recommentations"
 permalink: /recommendations/
 author_profile: true
 redirect_from:
