@@ -7,7 +7,7 @@ redirect_from:
   - /projects
 ---
 
-- [SMART ENERGY GUARD](files\TEAM OF ONE SMART ENERGY GUARD PROJECT - FINAL (1).docx)
+- [SMART ENERGY GUARD](files\TEAM_OF_ONE_SMART_ENERGY_GUARD_PROJECT_FINAL.pdf)
 
-- [DIGITAL PARKING APPLICATIONS](files\SAND digital Parking APPLICATION DAP GROUP 1 submission_v0.5.docx)
+- [DIGITAL PARKING APPLICATIONS](files\SAND_digital_Parking_APPLICATION_DAP_GROUP_1_submission_v0.5.pdf)
 
