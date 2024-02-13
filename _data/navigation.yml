@@ -2,12 +2,39 @@
 main:
   - title: "CV"
     url: /cv/
-
-  - title: "Resume"
+  
+  - title: "RESUME"
     url: /files/Tina_Chrles_Mbakwe-Obi_Resume.pdf
 
-  - title: "test"
-    url: /test/
+  - title: "ACADEMICS"
+    url: /academics/
+    
+  - title: "CERTIFICATIONS"
+    url : /certifications/
+
+  - title: "CERTIFICATE COURSES"
+    url: /certificate_courses/
+  
+  - title: "PROMOTIONS"
+    url: /promotions/
+
+  - title: "PROJECTS"
+    url: /projects/
+  
+  - title: "RECOMMENDATIONS"
+    url: /recommendations/
+
+  - title: "TRAININGS"
+    url: /trainings/
+  
+  - title: "ACHIEVEMENTS"
+    url: /achievements/
+
+  - title: "AWARDS"
+    url: /awards/
+
+  - title: "REFERENCES"
+    url: /references/
 
   # - title: "Portfolio"
   #   url: /portfolio/

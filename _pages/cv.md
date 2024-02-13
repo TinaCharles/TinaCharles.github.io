@@ -72,8 +72,6 @@ redirect_from:
 
 # Certifications
 
-- [NASRDA WORK PROMOTIONS](/files/NASRDA%20WORK%20PROMOTIONS%20.pdf)
-
 - [CERTIFICATES FROM IPAS AND OPEN 2 STUDY](/files/Certificates%20from%20Ipsas%20and%20open%202study.pdf)
 
 - [IPAS AND ICAN TRAINING](/files/IPSAS%20AND%20ICAN%20TRAINING%20.pdf)
@@ -93,8 +91,7 @@ redirect_from:
 
 - Achieved Revenue loss through effectively vetting staff arreas claim by comparing with my payroll Auditing which led to N7million naira for center (CSTP).
 
-- Documented and resolved a fradulent cheque withdrawal which led to saving over N37million naira and a head office letter of
-  recommendation.
+- Documented and resolved a fradulent cheque withdrawal which led to saving over N37million naira and a head office letter of recommendation.
 
 - Two-time Vice-President of Lagos based student Association (LBSA Nekede Chapter). which includes, event organising, hosting student protective intercourse Awareness, Award night Events and lots more.
 
@@ -133,54 +130,3 @@ redirect_from:
 - Planning, Critical thinking, Task priortization and public speaking
 
 - General ledger and recordkeeping
-
-# Awards
-
-- (12/2021) Outstanding Staff Initiative, National Space Research and Development Agency
-- (07/2018) Best Auditor's Award, Center for Space transport and Propulsion (NASRDA)
-- (10/2012) Exceptional Staff Award, Access Bank Plc
-- (08/2008) Best Transaction Officer Central Region, Intercontinental Bank Plc
-
-# Courses
-
-- (05/2024) Graduate Certificate in Cybersecurity, University of Illinois Springfield
-
-- (05/2024) Graduate Certificate in IT Project Management, University of Illinois Springfield
-
-- (05/2024) Graduate Certificate in Business Analytics, University of Illinois Springfield
-
-- (10/2023) [Applied Analytics using SAS Entreprise Miner, SAS](http://www.credly.com/badges/744bb2b5-f1f4-4363-8963-3d052680c8be/linked_in?t=s28py3)
-
-- (07/2023) [Career Essentials in Generative AI, Microsoft at LinkedIn](http://www.linkedin.com/learning/certificates/a767668201585db155a81237c55e7e3a846f3f4c3f9a37aff3420010993c8a2d)
-
-- (10/2023) [Product Management Proffesional Certificate, Aha!](http://www.linkedin.com/learning/certificates/741773109ad65167cb1a6e34581815116602fd00a59cd6e07b04d5aba608e705)
-
-- (12/2023) ARIS Business Process Analysis Platform, Aris
-
-- (06/2023) [Project Management: Technical Projects, LinkedIn Learning](http://www.linkedin.com/learning/certificates/4c83ded856eacba3cc07147f173287048fecb9e1339d7f50f08e3447e6b5e884?trk=share_certificate)
-
-- (09/2022) Mendix Rapid Developer Certification Mendix,
-
-- (05/2020) GIS Training Programme using QGIS, Institute of Urban Development, India
-
-<!-- # Publications
-
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
