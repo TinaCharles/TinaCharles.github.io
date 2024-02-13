@@ -76,7 +76,7 @@ redirect_from:
 
 - [IPAS AND ICAN TRAINING](/files/IPSAS%20AND%20ICAN%20TRAINING%20.pdf)
 
-- [RECCOMENDATIONS](/files/Recommendation.pdf)
+- [RECOMMENDATIONS](/files/Recommendation.pdf)
 
 # Accomplishments
 
