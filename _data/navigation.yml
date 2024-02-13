@@ -6,6 +6,9 @@ main:
   - title: "Resume"
     url: /files/Tina_Chrles_Mbakwe-Obi_Resume.pdf
 
+  - title: "test"
+    url: /test/
+
   # - title: "Portfolio"
   #   url: /portfolio/
 
