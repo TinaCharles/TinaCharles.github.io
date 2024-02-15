@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+# Summary
+
+Versatile and results-driven professional with a proven track record spanning diverse sectors. With years of experience in customer service, accounting, business consulting, and currently management information systems. I bring a wealth of experience to any role. Recently bolstered by graduate certificates in IT project management, business analysis, and cybersecurity, I am adept at 
+optimizing financial processes, leading successful project planning and implementation, and integrating cutting-edge technologies for business success.
+
 # Education
 
 - ### M.Sc in Management and Information System, University of illinois at Springfield, United States, (08/2022 - 05/2024)
@@ -23,7 +28,7 @@ redirect_from:
 
 - ### National Diploma Federal Polytechnic, Owerri Nigeria, (09/2007 - 08/2009)
 
-# Work experience
+# Experience
 
 - ### (02/2023 - present): SOC Analyst, Illinois Department of Innovation and Technology
 
@@ -101,6 +106,64 @@ redirect_from:
 - Internatinal Expert Consultant United kingdom
 - Supreme Ladies Auxillary of the Knight of St John Int'l.
 
+# Certifications
+
+- (05/2024) Graduate Certificate in Cybersecurity, University of Illinois Springfield
+
+- (05/2024) Graduate Certificate in IT Project Management, University of Illinois Springfield
+
+- (05/2024) Graduate Certificate in Business Analytics, University of Illinois Springfield
+
+- (10/2023) [Applied Analytics using SAS Entreprise Miner, SAS](http://www.credly.com/badges/744bb2b5-f1f4-4363-8963-3d052680c8be/linked_in?t=s28py3)
+
+- (07/2023) [Career Essentials in Generative AI, Microsoft at LinkedIn](http://www.linkedin.com/learning/certificates/a767668201585db155a81237c55e7e3a846f3f4c3f9a37aff3420010993c8a2d)
+
+- (06/2023) [Project Management: Technical Projects, LinkedIn Learning](http://www.linkedin.com/learning/certificates/4c83ded856eacba3cc07147f173287048fecb9e1339d7f50f08e3447e6b5e884?trk=share_certificate)
+
+- (01/2023) [PROJECT MANAGEMENT](/files/PROJECT_MANAGEMENT_CERTIFICATE.pdf)
+
+- (06/2022) [Cyber Security](/files/Cybersecurity_course.pdf)
+
+- [MENDIX RAPID DEVELOPER](/files/MendixRapidDeveloper-42347.pdf)
+
+- (12/2023) [ARIS Business Process Analysis Platform, Aris](/files/ARISDecember07_2023Tina_Charles_Mbakwe-Obi.pdf)
+
+- (10/2023) [Product Management Proffesional Certificate, Aha!](http://www.linkedin.com/learning/certificates/741773109ad65167cb1a6e34581815116602fd00a59cd6e07b04d5aba608e705)
+
+# Achievements
+
+- Global Impact through Documentary Production:
+    - Collaborated on the development and production of the NASRDA 20 Anniversary Documentary, distributed to Space Agencies globally, including NASA.
+
+    - Played a crucial role in showcasing the agency's achievements on an international scale, contributing to its global reputation.
+
+- Financial Wellness Initiative:
+    - Initiated the "Saving for a Purpose" program within NASRDA, demonstrating a commitment to financial wellness and encouraging a culture of purposeful saving among staff.
+    - Contributed to the agency's overall well-being by promoting financial literacy and responsible financial practices.
+
+- Enhance Team Bonding: 
+    - Pioneered the "Happy Hour Moment" initiative within my department, fostering team cohesion and subsequently extending it agency-wide. This initiative facilitated staff bonding and promoted a deeper understanding of colleagues.
+
+- Leadership in student Asscociation:
+    - Served as a two-time Vice President of the Lagos-based Student Association LBSA, orchestrating travel logistics for members and cultivating a strong sense of community.
+    - Contributed to the organization of music events and played a key role in the success of the Student Union Award Nights (SUG Award Night), fostering a vibrant student community.
+
+# Awards
+
+- (12/2021) Outstanding Staff Initiative, National Space Research and Development Agency
+- (07/2018) Best Auditor's Award, Center for Space transport and Propulsion (NASRDA)
+- (10/2012) Exceptional Staff Award, Access Bank Plc
+- (08/2008) Best Transaction Officer Central Region, Intercontinental Bank Plc
+
+# Industry Expertise
+
+- Network and system securtiy
+- Incident detection and response
+- Vulnertability and management
+- Threat Intelligence
+- Security information and event managemnet (SIEM)
+- Security protocols and standards (NIST, ISO27001)
+
 # Skills
 
 - Threat & Vulnerability Management
@@ -130,3 +193,32 @@ redirect_from:
 - Planning, Critical thinking, Task priortization and public speaking
 
 - General ledger and recordkeeping
+
+# Strenghts
+
+- Stragtegic Thinking Leadership:
+    - By initiating the "Saving for a Purpose" program, I showcased strategic thinking, leadership qualities and a commitment to financial wellness within my organization.
+
+-  Financial Literacy and Well-being Advocacy
+    - The "Savings For A Purpose" initiative fostered a culture of purposeful saving that reflected financial acumen and a commitment to the holistic well-being of the organization and its staff.
+  
+-  Networking and Reputation Building
+    - Played a pivotal role in showcasing the agency's achievements on an international scale. Also contributed to building the agency's global reputation by networking with and reaching out to agencies, building diplomatic skills and an understanding of the importance of reputation in the professional landscape.
+
+-  Cultural Senzitivity and Inclusivity 
+    - The global impact of the documentary and the agency-wide team-building initiative highlight cultural sensitivity and inclusivity, showing an ability to connect with diverse audiences and promote a positive work environment.
+
+-   Innovative Team Building
+    - Pioneering the "Happy Hour Moment" initiative, proves innovation in team building, demonstrating the ability to foster a positive work culture, enhance team cohesion, and promote interpersonal understanding among colleagues.
+
+-   Global Impact and Communication Skills
+    - I acquired this skill through on a global project, the Nasrda@20 Anniversary Documentary, which required communication and collaboration skills on an international scale.
+
+
+# Languages
+
+- English
+- Igbo
+
+
+
