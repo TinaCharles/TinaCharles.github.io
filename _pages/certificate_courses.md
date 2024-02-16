@@ -24,3 +24,4 @@ redirect_from:
 
 - (06/2022) [Cyber Security](/files/Cybersecurity_course.pdf)
 
+- (10/2023) [Product Management Proffesional Certificate, Aha!](http://www.linkedin.com/learning/certificates/741773109ad65167cb1a6e34581815116602fd00a59cd6e07b04d5aba608e705)

@@ -26,7 +26,7 @@ optimizing financial processes, leading successful project planning and implemen
 
 - ### B.Sc in Banking and Finance Support Services, Achievers University Owo, Ondo Nigeria, (04/2011 - 08/2013)
 
-- ### National Diploma Federal Polytechnic, Owerri Nigeria, (09/2007 - 08/2009)
+- ### Higher Diploma Federal Polytechnic, Owerri Nigeria, (09/2007 - 08/2009)
 
 # Experience
 
